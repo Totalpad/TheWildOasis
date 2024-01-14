@@ -18,8 +18,8 @@ function Sidebar() {
     <StyledSidebar>
       <Logo />
       <MainNav />
-
-      <Uploader />
+      {/* // Uploader is for adding new cabbins or bookings to the supabase
+      <Uploader /> */}
     </StyledSidebar>
   );
 }
